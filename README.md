@@ -1,4 +1,5 @@
-# ICLR2020 https://www.climatechange.ai/ICLR2020_workshop.html - Climate Catalog proposal
+# ICLR2020 - Climate Catalog proposal
+https://www.climatechange.ai/ICLR2020_workshop.html
 
 TITLE: Climate Catalog - Accelerated Data Discovery for Scalable Climate Action
 ABSTRACT:
